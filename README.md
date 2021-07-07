@@ -3,14 +3,11 @@ Extension CRUD media from cloudinary
 ### Install
 
 ```
-  npm i
+npm i
 ```
 
 ### Run
+Start live server
 
-Start open live server
 
-```
 
-  npm run watch
-```
