@@ -1,0 +1,10 @@
+{
+  "name": "Cloudinary Query",
+  "description": "Build an interact to cloudinary extension",
+  "version": "1.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "public/images/icon.png",
+    "default_popup": "index.html"
+  }
+}
